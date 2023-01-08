@@ -1,1 +1,1 @@
-# exoplanets
+# exoplanets pipeline
